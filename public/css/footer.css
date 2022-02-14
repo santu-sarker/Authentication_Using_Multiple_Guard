@@ -1,0 +1,15 @@
+/*to make the footer work we need to shift this body section to main page body section*/
+
+.site-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #421826;
+    font-size: 16px;
+    line-height: 40px;
+    color: #ffffff;
+}
+
+.copyright-text {
+    margin: 0;
+}
